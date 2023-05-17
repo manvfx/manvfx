@@ -6,7 +6,7 @@ I am a curious dveloper who has found computer programming to be the best tool f
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manvfx&show_icons=true&count_private=true" style="width: 450px; max-width: 100%;" />
 </a>
 <a href="https://github.com/manvfx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvfx&langs_count=10&layout=compact" style="width: 380px; max-width: 100%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvfx&langs_count=8&layout=compact" style="width: 380px; max-width: 100%;" />
 </a>
 
 # Contact me
